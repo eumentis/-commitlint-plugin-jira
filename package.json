@@ -1,0 +1,33 @@
+{
+  "name": "@eumentis/commitlint-plugin-jira",
+  "version": "1.0.0",
+  "description": "Commitlint plugin for [Eumentis](https://eumentis.com) projects managed with JIRA",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "repository": "https://github.com/eumentis/commitlint-plugin-jira.git",
+  "author": "Pawan Samdani <pawan@eumentis.com>",
+  "contributors": [
+    {
+      "name": "Ruchika Runwal",
+      "email": "ruchika@eumentis.com"
+    }
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "commit",
+    "git commit",
+    "git commit message",
+    "commit message linting",
+    "commitlint",
+    "commitlint plugin",
+    "lint",
+    "javascript",
+    "code checker",
+    "code linter"
+  ]
+}
